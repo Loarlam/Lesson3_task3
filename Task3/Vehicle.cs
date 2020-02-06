@@ -41,6 +41,7 @@ namespace Task3
             _vehicleCoordinateY = vehicleCoordinateY;
             _vehicleSpeed = vehicleSpeed;
             _vehicleYear = vehicleYear;
+            _vehicleCost = vehicleCost;
         }
     }
 }
