@@ -6,8 +6,8 @@ namespace Task3
 {
     class Ship : Vehicle
     {
-        int shipNumberOfPassengers;
-        string shiphomePort;
+        int _shipNumberOfPassengers;
+        string _shiphomePort;
 
     }
 }

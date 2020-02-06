@@ -6,7 +6,12 @@ namespace Task3
 {
     class Plane : Vehicle
     {
-        int planeHight, planeNumberOfPassangers;
+        int _planeHight, _planeNumberOfPassangers;
+
+        public Plane()
+        {
+
+        }
 
     }
 }

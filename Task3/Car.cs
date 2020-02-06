@@ -6,8 +6,7 @@ namespace Task3
 {
     class Car : Vehicle
     {
-        string transmission;
-        bool minivan;
+        string _carTransmission, _carType;
 
     }
 }
